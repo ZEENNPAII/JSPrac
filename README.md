@@ -1,3 +1,3 @@
-# JavaScript Review Porject by Pareja,Louise Clark 
+# JavaScript Review Porject by Louise Clark B. Pareja
 
 This project is a review of JavaScript concepts, From begginer to advance.
